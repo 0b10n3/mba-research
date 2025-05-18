@@ -92,6 +92,7 @@ def markowitz_mean_variance_optimization(
     cov_matrix_annualized = cov_matrix_period * annualization_factor
 
     min_b, max_b = weight_bounds_per_asset
+
     if not allow_short_selling:
         min_b = max(0.0, min_b)
 
@@ -101,7 +102,8 @@ def markowitz_mean_variance_optimization(
         return {}
 
     if num_assets > 0 and min_b * num_assets > 1.0001:
-            f"Markowitz: Sum of minimum weights ({min_b * num_assets:.2f}) > 1. This may lead to an infeasible solution.")
+            f"Markowitz: Sum of minimum weights ({min_b * num_assets:.2f}) > 1. "
+            f"This may lead to an infeasible solution."
     if num_assets > 0 and max_b * num_assets < 0.9999 and not (num_assets == 1 and np.isclose(max_b, 1.0)):
         logger.warning(
             f"Markowitz: Sum of maximum weights ({max_b * num_assets:.2f}) < 1. This may lead to an infeasible solution if full investment is required.")
