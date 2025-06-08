@@ -5,7 +5,7 @@ from logger import logger
 from datetime import datetime
 
 
-def read_etf_list(path = "data/etfsListados.csv"):
+def read_etf_list(path = "/home/saga/Projects/mba-research/code/data/etfsListados.csv"):
     """
     Read the etfs list from a csv file.
     :param path:

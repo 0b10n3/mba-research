@@ -1,4 +1,4 @@
-from code.fn import build_assets_universe, get_yahoo_prices, build_portfolio
+from fn import build_assets_universe, get_yahoo_prices, build_portfolio
 from strategies import markowitz_mean_variance_optimization, one_over_n_portfolio_strategy
 
 
