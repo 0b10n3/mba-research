@@ -1,0 +1,77 @@
+﻿Título do trabalho de conclusão de curso (o título deve ser curto, claro, afirmativo e conclusivo. Deve conter no máximo 15 palavras e não deve conter expressões redundantes como: “Estudo de...”; “Influência de...”; “Elaboração de...” “Efeito de... “, “Análise de...”)
+
+
+nome completo aluno¹*; nome completo orientador2
+
+1 Nome da Empresa ou Instituição (opcional). Titulação ou função ou departamento. Endereço completo (pessoal ou profissional) – Bairro; 00000-000    Cidade, Estado, País 
+2 Nome da Empresa ou Instituição (opcional). Titulação ou função ou departamento. Endereço completo (pessoal ou profissional) – Bairro; 00000-000    Cidade, Estado, País
+*autor correspondente: nome@email.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Título do trabalho de conclusão de curso
+
+Resumo (ou Sumário Executivo)
+
+Tópico obrigatório para o depósito do TCC, porém opcional para a etapa dos Resultados Preliminares. Para o curso de Gestão de Projetos, devido à sua particularidade, o Resumo pode ser substituído pelo Sumário Executivo.
+Palavras-chave: (inserir até cinco palavras diferentes das contidas no título, separadas por ponto-e-vírgula).
+Atenção: antes de enviar o arquivo para o Sistema de TCCs, remova todas as instruções originais que estão abaixo do conteúdo dos tópicos.
+
+Introdução
+
+O título da seção “Introdução” deve ser grafado em negrito, alinhado à esquerda e com a primeira letra maiúscula. Nesta seção o autor deve contextualizar o assunto, estabelecendo uma relação com outros trabalhos publicados sobre o tema. Da mesma maneira, deve ser apresentada a justificativa para a realização do trabalho, situando a importância do problema estudado e apoiada em citações bibliográficas de fontes confiáveis. O último parágrafo da introdução deve discriminar o objetivo do trabalho, que deve ser enunciado de forma coerente e direta.
+A introdução deve ser redigida em no máximo duas páginas e não deve conter subtópicos, figuras ou tabelas. Ressalta-se que o TCC não deverá exceder o total de 30 páginas, incluindo o(s) Apêndice(s) e/ou Anexo(s), sendo este o máximo de páginas permitido pelo “Manual de Instruções e Normas para Trabalhos de Conclusão de Curso” do MBA USP/ Esalq.
+Atenção: antes de enviar o arquivo para o Sistema de TCCs, remova todas as instruções originais que estão abaixo do conteúdo dos tópicos.
+
+Metodologia ou Material e Métodos
+
+Os TCCs dos cursos de especialização USP/Esalq devem apresentar um caráter aplicado. Pesquisas bibliográficas ou documentais, ou seja, ‘formas’ de pesquisa baseadas exclusivamente em dados não experimentais, somente serão aceitas se elaboradas juntas (ou em conjunto) utilizando métodos de análise de metadados ou grupos de dados. Todos os trabalhos deverão ser executados de forma que os alunos utilizem as ferramentas e os conhecimentos adquiridos ao longo do curso. As situações excepcionais, quando houver, serão avaliadas pela coordenação do programa. Recomenda-se que a escolha do tema seja realizada em função da identificação com a área de conhecimento e/ou demanda profissional do aluno. Além disso, é fundamental que antes de iniciar a redação do TCC, o aluno considere se terá acesso irrestrito aos dados necessários, fontes de consulta e, principalmente, se a metodologia da pesquisa está ao alcance do conhecimento e domínio do assunto, tanto do aluno quanto do orientador.
+As pesquisas envolvendo a participação, direta ou indireta, de seres humanos, a experimentação com animais e aquelas pesquisas que representem risco potencial ao meio ambiente devem obedecer a um conjunto de diretrizes específicas. Nesse sentido, é responsabilidade do aluno e orientador conhecerem as regras pertinentes à sua área de pesquisa e submeterem ou não o projeto ao Comitê de Ética. Para mais informações, consulte o “Manual de Instruções e Normas para Trabalhos de Conclusão de Curso”.
+O título da seção Metodologia ou Material e Métodos deve ser grafado em negrito, alinhado à esquerda e com as primeiras letras das palavras em letra maiúscula. O texto da seção deve ser redigido no pretérito perfeito do indicativo (passado) na forma impessoal e pode ser dividido em subtópicos, conforme formatação descrita no item 16.4 Metodologia ou Material e Métodos.
+Neste tópico deve ser apresentada a descrição detalhada de todo o material utilizado para o desenvolvimento da pesquisa e os métodos utilizados na obtenção dos dados e análise dos resultados. Essa descrição deve ser feita de forma que permita a compreensão e interpretação dos resultados, bem como a reprodução do estudo ou a utilização do método por outros pesquisadores. No entanto, apenas novos métodos devem ser descritos detalhadamente. Os métodos previamente publicados (descritos na literatura) devem ser citados e referenciados, mencionando de modo breve quaisquer modificações significativas que tenham sido efetuadas.
+Na descrição do local da pesquisa não deve ser mencionado o nome da propriedade ou instituição ou empresa onde foi realizado o estudo, ou onde foram coletados os dados, bem como nome do(s) proprietário(s). O local deve ser identificado apenas pelo nome da cidade e estado. A população estudada, as técnicas e métodos de amostragem, a espécie animal ou vegetal utilizada, com a devida classificação zoológica ou botânica, as técnicas agronômicas ou zootécnicas entre outras, além da descrição dos procedimentos analíticos, devem ser detalhados na sequência lógica em que o trabalho foi conduzido. A opção pela discriminação ou identificação da propriedade, instituição ou empresa, bem como do nome do eventual proprietário, imputa aos autores a inteira responsabilidade pela obtenção da autorização, junto às partes envolvidas, para a citação e consequente total isenção do MBA USP/Esalq por esta opção.
+Atenção: antes de enviar o arquivo para o Sistema de TCCs, remova todas as instruções originais que estão abaixo do conteúdo dos tópicos.
+
+Resultados Preliminares
+
+O título da seção Resultados Preliminares deve ser alinhado à esquerda, grafado em negrito com as primeiras letras das palavras em letras maiúsculas. É permitido que a seção seja dividida em subtópicos, seguindo a de acordo com a descrição feita no item 16.5 Resultados e Discussão e apresentados na mesma ordem da seção Material e Métodos. Nesta seção devem ser apresentados os resultados parciais obtidos na pesquisa, ou seja, os resultados obtidos até o momento. 
+Atenção: antes de enviar o arquivo para o Sistema de TCCs, remova todas as instruções originais que estão abaixo do conteúdo dos tópicos.
+
+Conclusão(ões) ou Considerações Finais
+
+Tópico obrigatório para o depósito do TCC, porém opcional para a etapa dos Resultados preliminares. 	
+Atenção: antes de enviar o arquivo para o Sistema de TCCs, remova todas as instruções originais que estão abaixo do conteúdo dos tópicos.
+
+Agradecimento (opcional, 1 parágrafo, bem sucinto)
+
+O título da seção Agradecimentos deve ser alinhado à esquerda e grafado em negrito, com a primeira letra da palavra grafada em letra maiúscula. Trata-se de uma seção opcional, de no máximo três linhas, na qual o autor agradece àqueles que contribuíram de maneira relevante para o desenvolvimento do trabalho e elaboração do TCC, mas que não tiveram o envolvimento intelectual necessário à atribuição de coautoria. O autor deve se abster da menção ou citação dos nomes das empresas, instituições ou pessoas que permitiram ou contribuíram com o desenvolvimento do trabalho, a menos que esteja documentalmente autorizado a fazê-lo.
+Atenção: antes de enviar o arquivo para o Sistema de TCCs, remova todas as instruções originais que estão abaixo do conteúdo dos tópicos.
+
+Referências
+
+Neste tópico deverão ser listadas todas as referências dos trabalhos citados no texto, formatadas seguindo rigorosamente as normas do MBA USP/Esalq. Para mais informações, consulte o “Manual de Instruções e Normas para Trabalhos de Conclusão de Curso” disponível no Sistema de TCCs.
+Atenção: antes de enviar o arquivo para o Sistema de TCCs, remova todas as instruções originais que estão abaixo do conteúdo dos tópicos.
+
+Apêndice ou Anexo (opcional)
+
+Apêndices são textos e/ou documentos que foram elaborados pelo autor e que são importantes para complementar a argumentação do trabalho. Anexos são textos ou documentos que ilustram, mas que não foram elaborados pelos autores. Apêndices deverão seguir as mesmas normas de formatação do restante do texto, inclusive para figuras e tabelas. 
+O TCC deverá conter no máximo 30 páginas, incluindo o(s) Apêndice(s) e/ou Anexo(s).
+Atenção: antes de enviar o arquivo para o Sistema de TCCs, remova todas as instruções originais que estão abaixo do conteúdo dos tópicos.
+

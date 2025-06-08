@@ -1,4 +1,4 @@
-from logger import logger
+from code.logger import logger
 
 import numpy as np
 import pandas as pd
