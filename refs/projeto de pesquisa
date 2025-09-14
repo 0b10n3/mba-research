@@ -1,0 +1,60 @@
+Esta pesquisa caracteriza-se como quantitativa, de natureza aplicada e com abordagem comparativa, utilizando procedimentos experimentais através de simulação computacional. Conforme Gil (2017). O delineamento temporal será longitudinal retrospectivo, abrangendo o período de 2014 a 2024, permitindo a avaliação das estratégias de investimento em diferentes ciclos econômicos.
+No levantamento de dados serão coletados dados de fontes confiáveis como ANBIMA, B3, CVM e IPEA,  incluindo:
+    • Séries históricas de preços e retornos de ETFs negociados no mercado brasileiro com periodicidade diária.
+    • Séries históricas de índices de referência (benchmarks) setoriais e amplos de mercado
+    • Indicadores econômicos e financeiros relevantes (taxa de juros, inflação, PIB, produção industrial).
+    • Métricas de desempenho e risco de fundos de investimento tradicionais para contextualização.
+    • 
+O processamento e análise dos dados serão realizados utilizando a linguagem de programação Python, com bibliotecas de análise de dados como pandas, numpy e scipy. A visualização dos resultados será implementada através das bibliotecas matplotlib e seaborn. 
+
+	Na estapa de construção dos portfólios serão elaborados quatro tipos de portfólios para comparação:
+
+    • Portfólio Equal Weights: Alocação com pesos iguais entre classes de ativos selecionadas. Rebalanceamento trimestral para manutenção dos pesos iguais. Implementação conforme metodologia proposta por DeMiguel et al. (2009)
+    • Portfólio Markowitz: Alocação baseada na otimização média-variância conforme o modelo clássico. Rebalanceamento trimestral. Utilização de técnicas de regularização da matriz de covariância (Ledoit & Wolf, 2004).
+    • Portfólio Risk Parity:  Alocação fundamentada na distribuição equitativa do risco entre diferentes ativos. Rebalanceamento trimestral. Implementação segundo o método proposto por Maillard et al. (2010). 
+    • Portfólio Goal-Based: Construído segundo os princípios do Goal-Based Investing (Das et al., 2010). Rebalanceamento trimestral. Segmentação em sub-portfólios dedicados a objetivos específicos. Seleção de ETFs alinhados às características de cada objetivo
+
+Para cada metodologia, serão utilizados predominantemente ETFs como veículos de investimento, garantindo assim a comparabilidade entre as diferentes estratégias. O universo de ETFs será  selecionado para incluir instrumentos que representem adequadamente as principais classes de ativos, setores econômicos e regiões geográficas, com preferência para ETFs com histórico mais longo, maior liquidez e menores custos operacionais.
+
+Quanto a análise de desempenho dos portfólios, serão avaliados os seguintes indicadores:
+    • Retorno total e anualizado
+Visa medir o ganho ou perda absoluto de um investimento em um período (Feibel, 2003). O retorno anualizado converte retornos de períodos irregulares para uma base anual, facilitando comparações.
+Fórmula:
+    • Retorno Total:
+	$ R_t = \frac{V_f - V_i}{V_i} \times 100% $
+    • Retorno Anualizado:
+$ R_{anual} = \left( \prod_{t=1}^{n} (1 + R_t) \right)^{\frac{252}{n}} - 1 $
+
+    • Volatilidade (desvio-padrão dos retornos)
+Quantifica a variação dos retornos em relação à média, sendo uma forma comum de se medir o risco associado ao investimento (Neto, 2018). Valores mais altos sugerem maior incerteza.
+Fórmula:
+$ \sigma = \sqrt{\frac{1}{n-1} \sum_{t=1}^{n} (R_t - \overline{R})^2} $
+
+    • Índices de Sharpe  
+Avalia o retorno ajustado pelo risco total, comparando o excesso de retorno sobre a taxa livre de risco com a volatilidade do portfólio (Sharpe, 1966).
+Fórmula:
+$ Sharpe = \frac{R_p - R_f}{\sigma_p} $
+
+    • Índices de Sortino.
+Similar ao Sharpe, considera apenas o risco de queda (downside risk), Sortino e Price (1994), sendo mais adequado para avaliar estratégias com assimetria de retornos.
+Fórmula:
+$ Sortino = \frac{R_p - R_{alvo}}{\sigma_{down}} $
+
+    • Maximum Drawdown.
+Mede a maior perda percentual entre um pico e um vale subsequente, que reflete o risco extremo de um investimento.
+Fórmula:
+$ MDD = \frac{P_{pico} - P_{vale}}{P_{pico}} \times 100% $
+
+    • Alfa de Jensen
+Mede o retorno excedente em relação ao esperado pelo CAPM, indicando a habilidade do gestor em gerar performance (Neto, 2018).
+Fórmula:
+$ \alpha = R_p - [R_f + \beta (R_m - R_f)] $
+
+    • Probabilidade de atingimento dos objetivos financeiros predeterminados (Das et al., 2010).
+    
+    
+    Fonte de Dados 
+    
+    Arquivos de cotações históricas da B3
+    API do IPEA com dados do IPCA
+    API do BACEN com dados da SELIC
